@@ -1826,13 +1826,6 @@ ko:
     not_supported: 이 브라우저는 보안 키를 지원하지 않습니다
     otp_required: 보안 키를 사용하기 위해서는 2단계 인증을 먼저 활성화 해 주세요
     registered_on: "%{date} 에 등록됨"
-      gullboard:
-    auth:
-      progress:
-        confirm: 승인 기다리기
-      setup:
-        title: 관리자의 승인을 기다리기
-        settings_hint_html: 계정 %{email}의 가입 신청이 전달 되었습니다. 
 
 
 
